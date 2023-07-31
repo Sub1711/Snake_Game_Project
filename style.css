@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;  /* center the elements with margin */
+}
+
+canvas {
+    background: rgb(64, 150, 18);
+    display: block;
+    margin: 0 auto;  /* center the elements with margin */
+}
+
+#score_container {
+    text-align: center;
+}
+
+#score{
+    background-color: aqua
+}
+
+#div_svg_score {
+    margin: 0 auto;
+    text-align: center;
+}
+
